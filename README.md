@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<
 Projeto Backend Geração Tech
 =======
 # 🛒 Digital Store - Back-end API
