@@ -44,15 +44,19 @@ npm run dev
 
 # Para produção
 npm start
-📁 Estrutura de PastasPlaintextproject-root/
+
+project-root/
 ├── src/
-│   ├── controllers/   # Lógica das rotas
-│   ├── models/        # Definição dos dados
-│   ├── routes/        # Definição dos endpoints
-│   ├── middleware/    # Filtros de segurança e validação
-│   └── server.js      # Ponto de entrada da aplicação
+│   ├── controllers/   # Regras de negócio
+│   ├── models/        # Estrutura dos dados
+│   ├── routes/        # Rotas da aplicação
+│   ├── middleware/    # Autenticação e validações
+│   ├── services/      # Lógica separada (opcional)
+│   └── server.js      # Inicialização do servidor
+├── .env
 ├── .gitignore
 ├── package.json
+└── README.md
 └── README.md
 📍 Endpoints Principais (Exemplos)MétodoEndpointDescriçãoGET/productsLista todos os produtosPOST/users/registerCria um novo usuárioGET/categoriesLista as categorias disponíveis
 >>>>>>> 2abcebf97e6d5c6c49419fe39c28c46ae0ba6f8f
