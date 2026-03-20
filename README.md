@@ -62,3 +62,9 @@ npm start
 ├── package-lock.json
 ├── package.json
 └── README.md
+
+
+## 👩‍💻 Autoras
+
+Desenvolvido por Kássia, Mickaelly e Tatiana
+© 2026 Todos os direitos reservados.
