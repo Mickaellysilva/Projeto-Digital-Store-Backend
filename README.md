@@ -49,13 +49,16 @@ npm start
 ```bash
 .
 ├── src
+│   ├── config
 │   ├── controllers
+│   ├── database
+│   ├── middleware
 │   ├── models
 │   ├── routes
-│   ├── middleware
 │   ├── services
+│   ├── app.js
 │   └── server.js
-├── .env
 ├── .gitignore
+├── package-lock.json
 ├── package.json
 └── README.md
