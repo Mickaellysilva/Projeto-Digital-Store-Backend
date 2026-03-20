@@ -43,20 +43,19 @@ DATABASE_URL=seu_link_aqui
 npm run dev
 
 # Para produção
-npm start
+npm start 
+## 📁 Estrutura do Projeto
 
-project-root/
-├── src/
-│   ├── controllers/   # Regras de negócio
-│   ├── models/        # Estrutura dos dados
-│   ├── routes/        # Rotas da aplicação
-│   ├── middleware/    # Autenticação e validações
-│   ├── services/      # Lógica separada (opcional)
-│   └── server.js      # Inicialização do servidor
+```bash
+.
+├── src
+│   ├── controllers
+│   ├── models
+│   ├── routes
+│   ├── middleware
+│   ├── services
+│   └── server.js
 ├── .env
 ├── .gitignore
 ├── package.json
 └── README.md
-└── README.md
-📍 Endpoints Principais (Exemplos)MétodoEndpointDescriçãoGET/productsLista todos os produtosPOST/users/registerCria um novo usuárioGET/categoriesLista as categorias disponíveis
->>>>>>> 2abcebf97e6d5c6c49419fe39c28c46ae0ba6f8f
