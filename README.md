@@ -11,14 +11,14 @@ Esta é a API de gerenciamento da **Digital Store**, um ecossistema de e-commerc
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 * **Autenticação de Usuários**: Registro e login seguros.
 * **Gestão de Produtos**: CRUD completo (Criar, Ler, Atualizar e Deletar).
 * **Categorias**: Organização de produtos por tipos.
 * **Carrinho e Pedidos**: Lógica de backend para processamento de compras.
 
-## 🛠 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 * **Runtime:** Node.js
 * **Framework:** Express.js
@@ -28,7 +28,7 @@ Esta é a API de gerenciamento da **Digital Store**, um ecossistema de e-commerc
 
 ---
 
-## 📦 Como instalar e rodar
+## Como instalar e rodar
 
 ### 1. Clonar o repositório
 ```bash
@@ -43,8 +43,8 @@ DATABASE_URL=seu_link_aqui
 npm run dev
 
 # Para produção
-npm start 
-## 📁 Estrutura do Projeto
+
+## Estrutura do Projeto
 
 ```bash
 .
@@ -65,12 +65,12 @@ npm start
 ```
 ---
 
-## 👩‍💻 Autoria
+## Autoria
 
 Desenvolvido por Kássia, Mickaelly e Tatiana
 
-- 💼 Projeto acadêmico - Geração Tech  
-- 🚀 Foco em desenvolvimento Back-end  
+- Projeto acadêmico - Geração Tech  
+- Foco em desenvolvimento Back-end  
 
 
 Desenvolvido por:
