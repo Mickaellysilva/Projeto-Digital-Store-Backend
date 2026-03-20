@@ -63,8 +63,15 @@ npm start
 ├── package.json
 └── README.md
 
+---
 
-## 👩‍💻 Autoras
+## 👩‍💻 Autoria
+
+Desenvolvido por Kássia, Mickaelly e Tatiana
+
+- 💼 Projeto acadêmico - Geração Tech  
+- 🚀 Foco em desenvolvimento Back-end  
+
 
 Desenvolvido por Kássia, Mickaelly e Tatiana
 © 2026 Todos os direitos reservados.
