@@ -67,8 +67,6 @@ npm run dev
 
 ## Autoria
 
-Desenvolvido por Kássia, Mickaelly e Tatiana
-
 - Projeto acadêmico - Geração Tech  
 - Foco em desenvolvimento Back-end  
 
