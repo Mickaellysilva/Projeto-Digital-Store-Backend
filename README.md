@@ -74,5 +74,5 @@ Desenvolvido por Kássia, Mickaelly e Tatiana
 
 
 Desenvolvido por:
-Kássia, Mickaelly da Silva Costa e  Tatiana dos Santos Lima
+Kássia Moreira Santos, Mickaelly da Silva Costa e  Tatiana dos Santos Lima
 © 2026 Todos os direitos reservados.
